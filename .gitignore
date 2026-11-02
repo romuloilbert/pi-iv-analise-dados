@@ -1,0 +1,20 @@
+# Metadados do Windows
+*:Zone.Identifier
+*.Zone.Identifier
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+
+# Dados originais grandes
+dados_anp/
+
+# Arquivos desnecessários para o funcionamento do App
+processamento*
+graficos*
+comparacao_anomalias*
+dados_extras/
+dados_processados/comparacao_anomalias*
